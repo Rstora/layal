@@ -1,0 +1,155 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "courses": "Cours",
+    "dashboard": "Mon Tableau de Bord",
+    "login": "Connexion",
+    "register": "Inscription"
+  },
+  "home": {
+    "hero": {
+      "title": "Maîtrisez les Techniques de Beauté en Ligne",
+      "subtitle": "Une éducation beauté premium à portée de main",
+      "cta": "Parcourir les Cours"
+    },
+    "features": {
+      "title": "Pourquoi Choisir Notre Académie",
+      "expertInstructors": {
+        "title": "Instructeurs Experts",
+        "description": "Apprenez avec des professionnels de l'industrie ayant des années d'expérience"
+      },
+      "flexibleLearning": {
+        "title": "Apprentissage Flexible",
+        "description": "Étudiez à votre rythme, n'importe où, n'importe quand"
+      },
+      "certification": {
+        "title": "Certification Professionnelle",
+        "description": "Obtenez un certificat reconnu à la fin de votre formation"
+      },
+      "communityAccess": {
+        "title": "Accès Communautaire",
+        "description": "Rejoignez notre communauté exclusive de professionnels de la beauté"
+      }
+    },
+    "categories": {
+      "title": "Explorer les Catégories",
+      "hairdressing": "Coiffure",
+      "nails": "Art des Ongles",
+      "makeup": "Maquillage Artistique",
+      "skincare": "Soins de la Peau",
+      "massage": "Thérapie par Massage",
+      "allInOne": "Programme Tout-en-Un"
+    },
+    "testimonials": {
+      "title": "Ce que Disent Nos Étudiants",
+      "viewAll": "Voir Tous les Témoignages"
+    },
+    "cta": {
+      "title": "Prêt à Démarrer Votre Carrière Beauté?",
+      "subtitle": "Rejoignez des milliers de professionnels qui ont commencé avec nous",
+      "button": "Commencez Aujourd'hui"
+    }
+  },
+  "courses": {
+    "title": "Nos Cours",
+    "filter": {
+      "all": "Tous les Cours",
+      "price": "Prix",
+      "duration": "Durée",
+      "level": "Niveau",
+      "category": "Catégorie",
+      "search": "Rechercher des cours..."
+    },
+    "priceRange": "€{{min}} - €{{max}}",
+    "details": "Voir les Détails",
+    "enroll": "S'inscrire Maintenant"
+  },
+  "courseDetail": {
+    "curriculum": "Programme",
+    "requirements": "Prérequis",
+    "includes": "Ce Cours Comprend",
+    "certificate": "Certificat d'Achèvement",
+    "duration": "Accès pendant {{duration}} semaines",
+    "level": "Niveau: {{level}}",
+    "language": "Langue: {{language}}",
+    "videos": "{{count}} vidéos d'instruction",
+    "materials": "Matériels téléchargeables",
+    "feedback": "Retour personnalisé",
+    "enroll": "S'inscrire pour €{{price}}",
+    "modules": "Modules"
+  },
+  "checkout": {
+    "title": "Complétez Votre Achat",
+    "course": "Cours",
+    "price": "Prix",
+    "total": "Total",
+    "paymentMethod": "Méthode de Paiement",
+    "cardDetails": "Détails de la Carte",
+    "cardNumber": "Numéro de Carte",
+    "expiryDate": "Date d'Expiration",
+    "cvv": "CVV",
+    "nameOnCard": "Nom sur la Carte",
+    "completePayment": "Finaliser le Paiement",
+    "applePay": "Payer avec Apple Pay",
+    "securePayment": "Traitement de Paiement Sécurisé",
+    "termsAgree": "En finalisant cet achat, vous acceptez nos Conditions d'Utilisation et notre Politique de Confidentialité"
+  },
+  "dashboard": {
+    "welcome": "Bienvenue, {{name}}",
+    "myCourses": "Mes Cours",
+    "progress": "{{completed}}% Complété",
+    "continue": "Continuer l'Apprentissage",
+    "certificates": "Mes Certificats",
+    "downloadCertificate": "Télécharger le Certificat",
+    "viewCertificate": "Voir le Certificat",
+    "noCourses": "Vous n'êtes inscrit à aucun cours pour le moment",
+    "browseCoursesBtn": "Parcourir les Cours",
+    "accessCode": {
+      "title": "Utiliser un Code d'Accès",
+      "placeholder": "Entrez votre code d'accès",
+      "submit": "Valider",
+      "invalid": "Code d'accès invalide. Veuillez réessayer."
+    }
+  },
+  "certificate": {
+    "title": "Certificat d'Achèvement",
+    "presented": "Ceci certifie que",
+    "completed": "a complété avec succès le cours",
+    "date": "Date d'Achèvement",
+    "signature": "Directeur de l'Académie",
+    "download": "Télécharger le Certificat",
+    "share": "Partager le Certificat"
+  },
+  "auth": {
+    "login": {
+      "title": "Connectez-vous à Votre Compte",
+      "email": "Email",
+      "password": "Mot de passe",
+      "rememberMe": "Se souvenir de moi",
+      "forgotPassword": "Mot de passe oublié?",
+      "submit": "Se Connecter",
+      "noAccount": "Vous n'avez pas de compte?",
+      "signUp": "S'inscrire"
+    },
+    "register": {
+      "title": "Créez Votre Compte",
+      "name": "Nom Complet",
+      "email": "Email",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le Mot de passe",
+      "termsAgree": "J'accepte les Conditions d'Utilisation et la Politique de Confidentialité",
+      "submit": "Créer un Compte",
+      "haveAccount": "Vous avez déjà un compte?",
+      "logIn": "Se connecter"
+    }
+  },
+  "footer": {
+    "about": "À Propos de Nous",
+    "courses": "Cours",
+    "testimonials": "Témoignages",
+    "terms": "Conditions d'Utilisation",
+    "privacy": "Politique de Confidentialité",
+    "contact": "Contactez-nous",
+    "copyright": "© {{year}} Beauté Académie. Tous droits réservés."
+  }
+}
